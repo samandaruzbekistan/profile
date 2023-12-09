@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samandar</h1>
 <h3 align="center">A web and mobile developer from Uzbekistan</h3>
 
+<img align="right" alt="coding" width="400" src="https://puruvj.dev/media/blog-social-intro.png">
+
 - 🔭 I’m currently working on [Quizgram](quizgram.uz)
 
 - 🌱 I’m currently learning **Dart, Flutter**
