@@ -1,3 +1,4 @@
+![logo](https://github.com/samandaruzbekistan/profile/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Samandar</h1>
 <h3 align="center">A web and mobile developer from Uzbekistan</h3>
 
