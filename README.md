@@ -25,6 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://t.me/Samandar_developer" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="samandar-sariboyev-1420b7213" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samandar-sariboyev-1420b7213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samandar-sariboyev-1420b7213" height="30" width="40" /></a>
 <a href="https://fb.com/samandar.sariboyev.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samandar.sariboyev.14" height="30" width="40" /></a>
 <a href="https://instagram.com/samandar_sariboyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samandar_sariboyev" height="30" width="40" /></a>
